@@ -1,0 +1,116 @@
+(venv) PS C:\Users\hp\Desktop\Zenteiq\recommendx> python .\embedding_candidate.py
+🚀 Running on: CPU
+Loading weights: 100%|███████████████████████████████████████████████| 103/103 [00:00<00:00, 2709.97it/s]
+BertModel LOAD REPORT from: C:\Users\hp\Desktop\models\models\all-MiniLM-L6-v2
+Key                     | Status     |  | 
+------------------------+------------+--+-
+embeddings.position_ids | UNEXPECTED |  | 
+
+Notes:
+- UNEXPECTED    :can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+✅ Existing collection found.
+ℹ️ Milvus already has 27555 items. Skipping insertion.
+
+🔍 Fetching recommendations for USR_2000...
+
+✨ Top 5 Recommendations for USR_2000:
+-> Water Balloons With Tap - Assorted | [Cleaning & Household] | Distance: 2.7985
+-> Holi Water Balloons With Tap Connector - Peppa Pig, Assorted | [Cleaning & Household] | Distance: 2.8040
+-> Small Push - Type Vacum Stopper | [Kitchen, Garden & Pets] | Distance: 2.8694
+-> Purple Orchids | [Fruits & Vegetables] | Distance: 3.2349
+-> Chrysanthemum/Shevanti Flower | [Fruits & Vegetables] | Distance: 3.2815
+-> Powder - Viboothi | [Cleaning & Household] | Distance: 3.3769
+-> Nebula Masala Box/Spice Container Round - Assorted Colour | [Cleaning & Household] | Distance: 3.4096  
+-> Iodised Crystal Salt/Uppu | [Foodgrains, Oil & Masala] | Distance: 3.4694
+-> Gol Ghanti | [Cleaning & Household] | Distance: 3.4916
+-> White Orchids | [Fruits & Vegetables] | Distance: 3.5959
+-> Essential Mist Automatic Fragrance+Essential Automatic Fragrance Mist(Each 20ml) | [Cleaning & Household] | Distance: 3.6385
+-> Eco Friendly Washing Granules - Chemical Free | [Beauty & Hygiene] | Distance: 3.7299
+-> Juniper Berry Essential Oil | [Beauty & Hygiene] | Distance: 3.8043
+-> Titanium EDP Fresh Perfume For Men | [Beauty & Hygiene] | Distance: 3.8389
+-> Titanium EDP Fresh Perfume For Men | [Beauty & Hygiene] | Distance: 3.8389
+-> Moringa Powder | [Beauty & Hygiene] | Distance: 3.8585
+-> Glass Set - Long Drink, Allure | [Kitchen, Garden & Pets] | Distance: 3.8843
+-> Perfect 100% Pure US Cotton Ultra Thin Pads & Wipes | [Beauty & Hygiene] | Distance: 3.8934
+-> Refreshing Wet Wipes - Rose | [Beauty & Hygiene] | Distance: 3.9391
+-> Rose Heart Bath & Personal Care Gift Set | [Beauty & Hygiene] | Distance: 4.0138
+-> Citronella Pure Essential Oil | [Beauty & Hygiene] | Distance: 4.0499
+-> Chrysanthemum/Shevanti Flower | [Fruits & Vegetables] | Distance: 4.0607
+-> 2 Super Breathable Adult Diapers Medium A'10 | [Beauty & Hygiene] | Distance: 4.0820
+-> Tap & Shower Cleaner | [Cleaning & Household] | Distance: 4.1752
+-> Handmade Himalayan Rose & Basil Soap With Dried Petals | [Beauty & Hygiene] | Distance: 4.1814
+-> Tender Coconut Water | [Beverages] | Distance: 4.1995
+-> Liquid Evaporex | [Gourmet & World Food] | Distance: 4.2887
+-> My Life For Him - Perfumed Deodorant Natural Spray | [Beauty & Hygiene] | Distance: 4.3060
+-> 100% Organic Bamboo Toothbrush - For Adults | [Beauty & Hygiene] | Distance: 4.3163
+-> Mutton - Boneless, 2-3 pcs, Antibiotic Residue-Free, Growth Hormone-Free | [Eggs, Meat & Fish] | Distance: 4.3795
+-> Sanitary Disposal Bag | [Beauty & Hygiene] | Distance: 4.3836
+-> Glass Set - Beverage, Melbourne | [Kitchen, Garden & Pets] | Distance: 4.4107
+-> Absorbent Soft Cotton Wool/Roll - For Makeup Remover, Beauty, Adult & Baby Care Disposable Cotton | [Beauty & Hygiene] | Distance: 4.4188
+-> For You Gift Set | [Beauty & Hygiene] | Distance: 4.4357
+-> Naag Ghanti | [Cleaning & Household] | Distance: 4.4442
+-> Refreshing Wet Wipes - Citrus | [Beauty & Hygiene] | Distance: 4.4793
+-> Sanitary Disposal Bag | [Beauty & Hygiene] | Distance: 4.4958
+-> Eco-Conscious Sanitary Pads For Rash-Free + Eco-Friendly Periods - Large | [Beauty & Hygiene] | Distance: 4.5020
+-> Organic Cotton Pads - Heavy | [Beauty & Hygiene] | Distance: 4.5235
+-> Sanitary Disposal Bag | [Beauty & Hygiene] | Distance: 4.5434
+-> Nutrition & Health Drink - Pista Badam | [Beverages] | Distance: 4.5736
+-> Milano Masala Box With Lid - Assorted Colour | [Cleaning & Household] | Distance: 4.6199
+-> Fragrance-Scented Oil - Lemon LMN BB 433 | [Cleaning & Household] | Distance: 4.6319
+-> DP Plastic Hanger Clips Assorted, Set Of 16 + Pampers Diapers Large 68Pcs | [Cleaning & Household] | Distance: 4.6642
+-> Gas Stove-4 Burner Royale Plus Schott Glass, Black (40278) | [Kitchen, Garden & Pets] | Distance: 4.6790
+-> Pleasure Xtra Time | [Beauty & Hygiene] | Distance: 4.6836
+-> A+ Nutritional Milk Powder Health Drink for Children (3+ years), Vanilla | [Beverages] | Distance: 4.6950
+-> DP Plastic Hanger Clips Assorted, Set Of 16 + Pampers Diapers Medium 80Pcs | [Cleaning & Household] | Distance: 4.7177
+-> Mutton Boneless Cubes | [Eggs, Meat & Fish] | Distance: 4.7235
+-> Coco Peat | [Kitchen, Garden & Pets] | Distance: 4.7360
+-> Water/Juice Glass - Galata, Long | [Kitchen, Garden & Pets] | Distance: 4.7535
+-> Shiva Toothpaste For Kids - Fluoride-Free, Sweet Bubble Gum Flavour | [Beauty & Hygiene] | Distance: 4.7638
+-> Eternal Garden - Travel Edition For Women, Rose & Jasmine | [Beauty & Hygiene] | Distance: 4.7896      
+-> Adult Diapers Economy, Large | [Beauty & Hygiene] | Distance: 4.8011
+-> Gas Stove-2 Burner Royale Plus Schott Glass, Black (40081) | [Kitchen, Garden & Pets] | Distance: 4.8211
+-> Petals - Ladli Pad Kit | [Beauty & Hygiene] | Distance: 4.8248
+-> Ultra Thin Underpads Classic - 60X90 mm | [Beauty & Hygiene] | Distance: 4.8404
+-> Bread improver | [Gourmet & World Food] | Distance: 4.8494
+-> Gas Stove-3 Burner Royale Plus Schott Glass, Black (40177) | [Kitchen, Garden & Pets] | Distance: 4.8640
+-> 100% Pure US Cotton Ultra Thin Sanitary Pads | [Beauty & Hygiene] | Distance: 4.8744
+-> California - Pitted Prunes | [Gourmet & World Food] | Distance: 4.8866
+-> Rose Glycerin Soap For Clean & Refreshed Skin -Cold Processed, 100% Natural & Organic | [Beauty & Hygiene] | Distance: 4.8943
+-> Bowl Set - Stack, Small | [Kitchen, Garden & Pets] | Distance: 4.9094
+-> Bowl Set - Stack, Small | [Kitchen, Garden & Pets] | Distance: 4.9094
+-> Adult Diapers Economy, Medium | [Beauty & Hygiene] | Distance: 4.9284
+-> Adult Diapers Economy, Medium | [Beauty & Hygiene] | Distance: 4.9284
+-> Biodegradable Super Soft Black Sanitary Napkins - Small, Day Pads, Antibacterial, Ultra Thin & Rash Free Protection | [Beauty & Hygiene] | Distance: 4.9315
+-> Lamb Hind Shank - New Zealand | [Eggs, Meat & Fish] | Distance: 4.9474
+-> Mineral Water | [Beverages] | Distance: 4.9608
+-> Wrist Band With Thumb Loop for Weightlifting, Sports, Gym for Men & Women | [Beverages] | Distance: 4.9646
+-> Adult Diapers Economy, Extra Large | [Beauty & Hygiene] | Distance: 4.9706
+-> Nutrition & Health Drink - Kesar Badam | [Beverages] | Distance: 4.9738
+-> Organic Cotton Pads - Medium | [Beauty & Hygiene] | Distance: 4.9797
+-> Bentonite Clay Natural Handmade Herbal Soap | [Beauty & Hygiene] | Distance: 5.0205
+-> Orange Essential Oil | [Beauty & Hygiene] | Distance: 5.0344
+-> Biodegradable Super Soft Black Sanitary Napkins - Large, Night Use, Antibacterial, Ultra Thin & Rash Free Protection | [Beauty & Hygiene] | Distance: 5.0421
+-> 100% Natural Intimate Wipes | [Beauty & Hygiene] | Distance: 5.0875
+-> Kesar Sandalwood Puja Diya Oil | [Cleaning & Household] | Distance: 5.0927
+-> Petals - Ladli Pad | [Beauty & Hygiene] | Distance: 5.1022
+-> Sharbat - Rose | [Beverages] | Distance: 5.1553
+-> Natural Produce - Pure Lemongrass Oil | [Gourmet & World Food] | Distance: 5.2132
+-> Calcium Propionate | [Gourmet & World Food] | Distance: 5.2181
+-> Omega Select Plus Paniyarakkal with Lid-240 mm (30880) | [Kitchen, Garden & Pets] | Distance: 5.2462   
+-> Menthol Perfumed Pocket Hanky Tissue | [Cleaning & Household] | Distance: 5.2505
+-> Organic Cotton Applicator Tampons - Super | [Beauty & Hygiene] | Distance: 5.2649
+-> Superior Natural Caffeine Capsules - Vegetarian, Calorie Burner | [Baby Care] | Distance: 5.2914       
+-> One Month Keto Booster | [Beauty & Hygiene] | Distance: 5.3237
+-> Drinking Water With Added Minerals | [Beverages] | Distance: 5.3421
+-> Oil - Lamp | [Cleaning & Household] | Distance: 5.3608
+-> Himalayan Rose Collection Gift Set | [Beauty & Hygiene] | Distance: 5.3730
+-> Mutton Bones | [Eggs, Meat & Fish] | Distance: 5.3743
+-> Packaged Drinking Water | [Beverages] | Distance: 5.3792
+-> Green Asparagus - Spears | [Gourmet & World Food] | Distance: 5.4102
+-> 100% Pure US Cotton Ultra Thin Sanitary Pads - Travel Pack | [Beauty & Hygiene] | Distance: 5.4440     
+-> Deep Cleansing Soap - With Charcoal, Shea Butter & Wheat Germ Oil | [Beauty & Hygiene] | Distance: 5.5233
+-> Nutrition Drink - Health, Energy & Sports | [Beverages] | Distance: 5.5269
+-> Nakshatra Plus Svachh Inner Lid Pressure Cooker (10757) | [Kitchen, Garden & Pets] | Distance: 5.5315  
+-> Eggs - Free Range | [Eggs, Meat & Fish] | Distance: 5.5549
+-> Country Cage Free Eggs - Medium, Antibiotic Residue-Free | [Eggs, Meat & Fish] | Distance: 5.5590      
+-> Nutrition Drink - Health, Energy & Sports | [Beverages] | Distance: 5.5634
